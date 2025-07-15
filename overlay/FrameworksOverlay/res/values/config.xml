@@ -138,4 +138,7 @@
 
     <!-- Whether the developer option for desktop mode is supported on the current device  -->
     <bool name="config_isDesktopModeDevOptionSupported">true</bool>
+
+    <!-- If AOD can show an ambient version of the wallpaper -->
+    <bool name="config_dozeSupportsAodWallpaper">true</bool>
 </resources>
