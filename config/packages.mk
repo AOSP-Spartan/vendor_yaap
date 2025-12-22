@@ -34,15 +34,11 @@ PRODUCT_PACKAGES += \
 
 # YAAP packages
 PRODUCT_PACKAGES += \
-    Aperture \
     AvatarPicker \
     Camelot \
     ExactCalculator \
     Glimpse \
-    MatLog \
-    Twelve \
     YASR \
-    Seedvault \
     OmniJaws \
     OpenDelta \
     Ripple \
